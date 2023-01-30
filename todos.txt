@@ -1,0 +1,4 @@
+Take Shower
+Return book
+Buy Groceries.
+Clean House.
